@@ -7,7 +7,7 @@ const Footer = () => {
         <p className="text-center text-sm text-gray-600 md:text-left">
           Built by{" "}
           <span className="font-semibold text-black hover:text-[#ff9c2f] transition-colors duration-300">
-            Abhishek
+            Sushant
           </span>{" "}
           © {new Date().getFullYear()} AidFind. All rights reserved.
         </p>
@@ -15,13 +15,13 @@ const Footer = () => {
         <div className="flex items-center gap-8 text-sm text-gray-500">
           {/* Add relevant links if needed */}
           <Link
-            to={"https://www.linkedin.com/in/abhishek-sharma-16675425a/"}
+            to={"https://www.linkedin.com/in/sushant-shukla-5a895625b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "}
             className="hover:underline text-gray-600 transition-all duration-300"
           >
             Linkdin
           </Link>
           <Link
-            to={"https://github.com/Abhishek-Sharma-21"}
+            to={"https://github.com/sushantshukla45"}
             className="hover:underline text-gray-600 transition-all duration-300"
           >
             GitHub
